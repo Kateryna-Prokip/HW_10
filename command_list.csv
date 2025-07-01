@@ -1,1 +1,123 @@
-history
+    1  git config --global user.name "Kateryna Prokipets"
+    2  git config --global user.email mkm900420@gmail.com
+    3  git clone  ^[[200~https://github.com/Kateryna-Prokip/HW2-QA.git~
+    4  clone https://github.com/Kateryna-Prokip/HW2-QA.git
+    5  git clone https://github.com/Kateryna-Prokip/HW2-QA.git
+    6  git status
+    7  cd
+    8  cd HW2-QA
+    9  cd
+   10  git status
+   11  cd clear
+   12  clwar
+   13  clear
+   14  git config --global user.name "Kateryna Prokipets"
+   15  git config --global user.email mkm900420@gmail.com
+   16  git clone [200~https://github.com/Kateryna-Prokip/HW2-QA.git~
+   17  git clone https://github.com/Kateryna-Prokip/HW2-QA.git
+   18  cd
+   19  cd GIT STATUS
+   20  git status
+   21  cd status
+   22  git status
+   23  cd "C:\Users\Acer\OneDrive\Робочий стіл\GIT"
+   24  git status
+   25  cd HW2-QA/
+   26  git status
+   27  touch New.txt
+   28  git status
+   29  git add New.txt
+   30  git status
+   31  git log
+   32  touch [200~text_ignore.txt~
+   33  touch text_ignore.txt
+   34  git status
+   35  git add
+   36  git commit -m Зробіть commit для фіксації ваших змін
+   37  git commit -m "Зробіть commit для фіксації ваших змін" 
+   38  git add main_test.txt
+   39  clear
+   40  touch main_test.txt
+   41  git add
+   42  git commit -m "task2"
+   43  git log
+   44  git brunch
+   45  git checkout -b develop 
+   46  git brunch
+   47  cd  
+   48  git checkout -b develop
+   49  git checkout develop
+   50  cd  CLEAR
+   51  clear
+   52  cd
+   53  cd git branch
+   54  git branch
+   55  git checkout -b develop
+   56  git branch
+   57  cd clear
+   58  clear
+   59  git config --global user.name "Kateryna Prokipets"
+   60  git config --global user.email mkm900420@gmail.com
+   61  git clone https://github.com/Kateryna-Prokip/HW2-QA.git
+   62  git status
+   63  git pull
+   64  CD Git
+   65  clear
+   66  git config --global user.name "Kateryna Prokipets"
+   67  git config --global user.email mkm900420@gmail.com
+   68  git clone https://github.com/Kateryna-Prokip/HW_10.git
+   69  cd HW_10/
+   70  git status
+   71  touch text_ignore.txt
+   72  git status
+   73  git add  text_ignore.txt
+   74  git status
+   75  git status
+   76  git add .
+   77  git commit -m "task1"
+   78  touch main_test.txt
+   79  git add main_test.txt
+   80  git commit -m "task2" 
+   81  git add .
+   82  git status
+   83  git branch
+   84  git checkout -b develop
+   85  git branch
+   86  touch develop_test.txt
+   87  git add .
+   88  git add.
+   89  git commit -m "task3"
+   90  git status
+   91  git add .
+   92  git commit -m "task3_add_Just"
+   93  git branch
+   94  git status
+   95  nano develop_test.txt
+   96  git branch
+   97  git status
+   98  git add .
+   99  git commit -m "add_рядок" 
+  100  git status
+  101  git branch
+  102  git checkout main
+  103  git branch
+  104  git merge develop
+  105  git branch
+  106  git status
+  107  git commit -m "task4"
+  108  git log
+  109  git branch
+  110  git add .
+  111  git commit -m "task5"
+  112  git add  command_list.csv
+  113  git commit -m "task5"
+  114  git push
+  115  history > command_list.csv
+  116  git add command_list.csv
+  117  git branch
+  118  [200~history > command_list.csv
+  119  history > command_list.csv
+  120  git add command_list.csv
+  121  git branch
+  122  clear
+  123  history > command_list.csv
